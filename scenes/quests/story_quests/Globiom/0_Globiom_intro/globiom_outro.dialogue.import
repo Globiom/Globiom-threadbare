@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://dbtkt64chdvig"
+path="res://.godot/imported/globiom_outro.dialogue-d1127428199b05112e0748111f89f279.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/Globiom/0_Globiom_intro/globiom_outro.dialogue"
+dest_files=["res://.godot/imported/globiom_outro.dialogue-d1127428199b05112e0748111f89f279.tres"]
+
+[params]
+
+defaults=true
